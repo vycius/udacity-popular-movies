@@ -21,10 +21,8 @@ public static final String API_KEY = "YOU_API_KEY";
 
 ## Screens
 
-![screen](https://cloud.githubusercontent.com/assets/3719141/14508076/815697ce-01ce-11e6-9f01-ddebe43af8dc.png)
-
 ![screen](https://cloud.githubusercontent.com/assets/3719141/14508074/815526f0-01ce-11e6-874e-66f36c31a4bc.png)
-
+![screen](https://cloud.githubusercontent.com/assets/3719141/14508076/815697ce-01ce-11e6-9f01-ddebe43af8dc.png)
 ![screen](https://cloud.githubusercontent.com/assets/3719141/14508075/8156995e-01ce-11e6-90b0-307b8c952ca2.png)
 
 ## Libraries
@@ -42,4 +40,4 @@ public static final String API_KEY = "YOU_API_KEY";
 ## Android Developer Nanodegree
 [![Udacity](https://cloud.githubusercontent.com/assets/3719141/14508774/c7f6cbce-01d1-11e6-9daf-02bcd10b6400.jpeg)](https://www.udacity.com/course/android-developer-nanodegree--nd801)
 
-Readme is inspired by another project really nice project [Udacity popular movies](https://github.com/ewintory/udacity-popular-movies) check it out!
+Readme is inspired by another project [Udacity popular movies](https://github.com/ewintory/udacity-popular-movies) check it out!
