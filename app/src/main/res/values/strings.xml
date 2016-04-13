@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="top_movies">Top movies</string>
+    <string name="popular_movies">Popular movies</string>
+    <string name="movie_detail_trailers">Trailers</string>
+    <string name="movie_detail_reviews">Reviews</string>
+    <string name="movie_detail_menu_share">Share</string>
+    <string name="share_using">Share</string>
+    <string name="movie_detail_check_trailer">"Check out %1$s - %2$s</string>
+
+    <string-array name="movie_grid_tab_titles">
+        <item>Popular</item>
+        <item>Top</item>
+        <item>Favorites</item>
+    </string-array>
+</resources>
